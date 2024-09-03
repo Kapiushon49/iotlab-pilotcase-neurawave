@@ -86,4 +86,16 @@ The first thing we have done was to observe what kind of signal there was in com
 
 ![alt text]( image/competing_signal.jpeg)
 
-So the goal was to recreate that signal with the ESP32 : 
+So the goal was to recreate that signal with the ESP32. 
+
+This is the result we got : 
+
+- Signal at 30 Hz 
+
+  ![alt text]( image/oscillo30Hz.BMP)
+
+- Signal at 50 Hz 
+  
+  ![alt text]( image/oscillo50Hz.BMP)
+
+
