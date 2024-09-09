@@ -85,7 +85,7 @@ In this projects we used several electronic equipement :
 
 # Schematic
 <p align="center">
-  <img width="1000" height="400" src="image/schematic_diagram.png">
+  <img width="1000" height="400" src="image/Schematic_diagram.png">
 </p>
 
 
