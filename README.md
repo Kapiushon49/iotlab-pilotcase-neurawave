@@ -127,5 +127,4 @@ This is the result we got :
 
 In this video you can see all the electronic assembly on the breadboard and the result we have on the osciloscope.
 
-
 [![Watch the video](image/video_miniature.svg)](video/neurawave_pilot_case_video.mp4)
